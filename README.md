@@ -29,7 +29,7 @@
 
 ---  
 
-## [Chapitre 1 : Internet]()
+## [Chapitre 1 : Internet](./_ressources/1.INTERNET/README.md)
 ## [Chapitre 2 : Le Web]()
 ## [Chapitre 3 : Les réseaux sociaux]()
 ## [Chapitre 4 : Les données structurées]()
