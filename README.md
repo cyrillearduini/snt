@@ -30,10 +30,10 @@
 ---  
 
 ## [Chapitre 1 : Internet](./_ressources/1.INTERNET/README.md)
-<! -- ## [Chapitre 2 : Le Web](./_ressources/2.WEB/README.md)-->;
-<! -- ## [Chapitre 3 : Les réseaux sociaux](./_ressources/3.RESEAUX_SOCIAUX/README.md)-->;
-<! -- ## [Chapitre 4 : Les données structurées]()-->;
-<! -- ## [Chapitre 5 : Localisation, cartographie et mobilité]()-->;
-<! -- ## [Chapitre 6 : La photographie numérique]()-->;
-<! -- ## [Chapitre 7 : Informatique embarquée et objets connectés]()-->;
+<!-- ## [Chapitre 2 : Le Web](./_ressources/2.WEB/README.md) -->
+<!-- ## [Chapitre 3 : Les réseaux sociaux](./_ressources/3.RESEAUX_SOCIAUX/README.md) -->
+<!-- ## [Chapitre 4 : Les données structurées]() -->
+<!-- ## [Chapitre 5 : Localisation, cartographie et mobilité]() -->
+<!-- ## [Chapitre 6 : La photographie numérique]() -->
+<!-- ## [Chapitre 7 : Informatique embarquée et objets connectés]() -->
 
